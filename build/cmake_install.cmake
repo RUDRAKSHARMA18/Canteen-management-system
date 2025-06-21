@@ -1,5 +1,6 @@
 # Install script for directory: /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon
 
+
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
   set(CMAKE_INSTALL_PREFIX "/usr/local")
