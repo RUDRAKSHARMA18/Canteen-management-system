@@ -3,7 +3,7 @@ build/
 *.o
 *.exe
 *.out
-
+ 
 # LaTeX temporary files
 output/bills/*.aux
 output/bills/*.fls
