@@ -1,4 +1,5 @@
--- Populate menu_items table (vegetarian items)
+-- Populate menu_items table 
+
 INSERT INTO menu_items (item_id, name, price, available) VALUES
 (1, 'Paneer Tikka', 150.00, 1),
 (2, 'Veggie Burger', 80.00, 1),
