@@ -28,7 +28,6 @@ Get a glimpse of the Canteen Management System’s features:
 - **Video Demo**: Find the demo video link in `demo_link.txt` in the repository’s main branch to watch the ImGui UI, order processing, billing, and more.
 - **Documentation**: `docs/Canteen-Management-System.pdf` and `docs/Project report.pdf` include screenshots and feature walkthroughs.
 
-*Note*: Ensure the link in `demo_link.txt` is accessible (e.g., set to “Anyone with the link” for Google Drive). Contact us if you need help.
 
 ## Requirements 🛠️
 
