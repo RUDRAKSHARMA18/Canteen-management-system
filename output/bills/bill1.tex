@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\sisetup{group-separator={,},group-minimum-digits=4}
+\usepackage{noto}
+\begin{document}
+\centering
+\textbf{Canteen Management System - Bill}\\
+\vspace{0.5cm}
+\begin{tabular}{lr}
+Bill ID: & 1 \\
+Order ID: & 1 \\
+Date: & 01-05-2025 16:00:00 \\
+\end{tabular}
+\vspace{0.5cm}
+\begin{tabular}{llrr}
+\toprule
+Item & Quantity & Price (Rs) & Total (Rs) \\
+\midrule
+Paneer Tikka & 1 & \num{150} & \num{150} \\
+Pav Bhaji & 2 & \num{70} & \num{140} \\
+\bottomrule
+\end{tabular}
+\vspace{0.5cm}
+\begin{tabular}{lr}
+Tax: & Rs \num{24} \\
+Total: & Rs \num{324} \\
+Payment Method: & Wallet \\
+\end{tabular}
+\end{document}

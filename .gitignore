@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.o
+*.exe
+*.out
+
+# LaTeX temporary files
+output/bills/*.aux
+output/bills/*.fls
+output/bills/*.fdb_latexmk
+output/bills/*.log
+
+# Sensitive database files
+data/users.db
+data/users_backup.db

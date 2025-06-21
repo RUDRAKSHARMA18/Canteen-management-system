@@ -1,0 +1,446 @@
+[Sat May 24 02:30:04 2025
+] User: Rudra, Action: User logged in
+[Sat May 24 02:56:03 2025
+] User: Rudra, Action: User logged in
+[Sat May 24 02:56:26 2025
+] User: Rudra, Action: User logged out
+[Sat May 24 09:12:06 2025
+] User: Rudra, Action: User logged in
+[Sat May 24 12:16:48 2025
+] User: Rudra, Action: User logged in
+[Sat May 24 12:17:20 2025
+] User: Rudra, Action: User logged out
+[Sat May 24 13:00:21 2025
+] User: admin, Action: User logged in
+[Sat May 24 13:06:57 2025
+] User: admin, Action: User logged in
+[Sat May 24 13:08:06 2025
+] User: admin, Action: Loyalty points earned: 20
+[Sat May 24 13:09:20 2025
+] User: admin, Action: User logged out
+[Sat May 24 13:09:35 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:10:16 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:10:46 2025
+] User: manager, Action: User logged out
+[Sat May 24 13:11:07 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:11:53 2025
+] User: manager, Action: User logged out
+[Sat May 24 13:12:08 2025
+] User: biller, Action: User logged in
+[Sat May 24 13:12:19 2025
+] User: biller, Action: Wallet topped up: 3.000000
+[Sat May 24 13:13:00 2025
+] User: biller, Action: User logged out
+[Sat May 24 13:34:18 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:36:38 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:41:46 2025
+] User: manager, Action: User logged out
+[Sat May 24 13:42:06 2025
+] User: biller, Action: User logged in
+[Sat May 24 13:42:29 2025
+] User: guest, Action: Order created: order_id 1
+[Sat May 24 13:43:31 2025
+] User: admin, Action: Wallet topped up: 10000.000000
+[Sat May 24 13:43:37 2025
+] User: biller, Action: User logged out
+[Sat May 24 13:46:26 2025
+] User: admin, Action: User logged in
+[Sat May 24 13:47:33 2025
+] User: admin, Action: User logged out
+[Sat May 24 13:48:09 2025
+] User: biller, Action: User logged in
+[Sat May 24 13:48:38 2025
+] User: biller, Action: Bill generated: order_id 1
+[Sat May 24 13:59:19 2025
+] User: manager, Action: User logged in
+[Sat May 24 13:59:29 2025
+] User: None, Action: Order canceled: order_id 1
+[Sat May 24 13:59:45 2025
+] User: 9999555577, Action: Wallet created with phone number: 9999555577
+[Sat May 24 14:00:07 2025
+] User: manager, Action: User logged out
+[Sat May 24 14:00:19 2025
+] User: admin, Action: User logged in
+[Sat May 24 14:00:35 2025
+] User: None, Action: Database backed up to users_backup.db
+[Sat May 24 14:01:03 2025
+] User: 9999555577, Action: Loyalty points earned: 10
+[Sat May 24 14:01:40 2025
+] User: admin, Action: User logged out
+[Sat May 24 14:01:53 2025
+] User: biller, Action: User logged in
+[Sat May 24 14:02:24 2025
+] User: 9999555577, Action: Order created: order_id 2
+[Sat May 24 14:03:51 2025
+] User: biller, Action: User logged out
+[Sat May 24 14:18:49 2025
+] User: biller, Action: User logged in
+[Sat May 24 14:22:29 2025
+] User: 9999555577, Action: Order created: order_id 3
+[Sat May 24 14:42:59 2025
+] User: biller, Action: User logged in
+[Sat May 24 14:46:05 2025
+] User: biller, Action: User logged in
+[Sat May 24 14:46:30 2025
+] User: 9999555577, Action: Order created: order_id 4
+[Sat May 24 14:54:32 2025
+] User: biller, Action: User logged in
+[Sat May 24 14:55:12 2025
+] User: 9999555577, Action: Order created: order_id 5
+[Sat May 24 15:03:24 2025
+] User: admin, Action: User logged in
+[Sat May 24 15:04:23 2025
+] User: admin, Action: User logged out
+[Sat May 24 15:04:48 2025
+] User: manager, Action: User logged in
+[Sat May 24 15:05:05 2025
+] User: 9999555577, Action: Wallet created with phone number: 9999555577
+[Sat May 24 15:05:19 2025
+] User: 9999555577, Action: Loyalty points earned: 100
+[Sat May 24 15:05:24 2025
+] User: manager, Action: User logged out
+[Sat May 24 15:05:35 2025
+] User: biller, Action: User logged in
+[Sat May 24 15:06:18 2025
+] User: 9999555577, Action: Order created: order_id 1
+[Sat May 24 15:06:51 2025
+] User: None, Action: Order completed: order_id 1
+[Sat May 24 15:06:51 2025
+] User: 9999555577, Action: Loyalty points earned: 21
+[Sat May 24 15:06:51 2025
+] User: biller, Action: Bill generated: order_id 1
+[Sat May 24 15:07:04 2025
+] User: biller, Action: User logged out
+[Sat May 24 16:33:25 2025
+] User: biller, Action: User logged in
+[Sat May 24 16:33:52 2025
+] User: 9999555577, Action: Order created: order_id 2
+[Sat May 24 16:34:44 2025
+] User: None, Action: Order completed: order_id 2
+[Sat May 24 16:34:44 2025
+] User: 9999555577, Action: Loyalty points earned: 54
+[Sat May 24 16:34:44 2025
+] User: biller, Action: Bill generated: order_id 2
+[Sat May 24 16:46:52 2025
+] User: biller, Action: User logged in
+[Sat May 24 17:11:26 2025
+] User: biller, Action: User logged in
+[Sat May 24 17:14:33 2025
+] User: biller, Action: User logged in
+[Sat May 24 17:18:46 2025
+] User: biller, Action: User logged in
+[Sat May 24 17:24:15 2025
+] User: biller, Action: User logged in
+[Sat May 24 17:24:22 2025
+] User: None, Action: Bill saved as PDF: bill_id 1 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill1.pdf
+[Sat May 24 17:25:09 2025
+] User: None, Action: Bill saved as PDF: bill_id 2 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill2.pdf
+[Sat May 24 17:25:19 2025
+] User: None, Action: Bill saved as PDF: bill_id 1 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill1.pdf
+[Sat May 24 18:16:13 2025
+] User: admin, Action: User logged in
+[Sat May 24 18:29:47 2025
+] User: admin, Action: User logged in
+[Sat May 24 18:32:02 2025
+] User: admin, Action: User logged in
+[Sat May 24 18:32:04 2025
+] User: None, Action: Database backed up to users_backup.db
+[Sat May 24 18:32:34 2025
+] User: None, Action: Database backed up to users_backup.db
+[Sat May 24 18:37:22 2025
+] User: admin, Action: User logged in
+[Sat May 24 18:37:57 2025
+] User: None, Action: Bill saved as PDF: bill_id 1 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill1.pdf
+[Sat May 24 18:38:29 2025
+] User: None, Action: Bill saved as PDF: bill_id 1 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill1.pdf
+[Sat May 24 18:41:12 2025
+] User: None, Action: Database backed up to users_backup.db
+[Sat May 24 18:41:18 2025
+] User: admin, Action: User logged out
+[Sat May 24 18:41:44 2025
+] User: manager, Action: User logged in
+[Sat May 24 18:43:55 2025
+] User: manager, Action: User logged out
+[Sat May 24 18:44:05 2025
+] User: biller, Action: User logged in
+[Sat May 24 18:44:37 2025
+] User: 9999111123, Action: Order created: order_id 51
+[Sat May 24 18:45:07 2025
+] User: None, Action: Order completed: order_id 51
+[Sat May 24 18:45:07 2025
+] User: 9999111123, Action: Loyalty points earned: 31
+[Sat May 24 18:45:07 2025
+] User: biller, Action: Bill generated: order_id 51
+[Sat May 24 18:45:42 2025
+] User: None, Action: Bill saved as PDF: bill_id 26 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill26.pdf
+[Sat May 24 18:46:18 2025
+] User: 9999111123, Action: Wallet topped up: 100.000000
+[Sat May 24 18:46:25 2025
+] User: biller, Action: User logged out
+[Sat May 24 18:52:26 2025
+] User: admin, Action: User logged in
+[Sat May 24 18:58:31 2025
+] User: admin, Action: User logged out
+[Sat May 24 18:58:45 2025
+] User: manager, Action: User logged in
+[Sat May 24 18:59:56 2025
+] User: 9999555577, Action: Wallet created with phone number: 9999555577
+[Sat May 24 19:00:59 2025
+] User: manager, Action: User logged out
+[Sat May 24 19:01:11 2025
+] User: biller, Action: User logged in
+[Sat May 24 19:02:00 2025
+] User: 9999555577, Action: Order created: order_id 52
+[Sat May 24 19:02:43 2025
+] User: None, Action: Order completed: order_id 52
+[Sat May 24 19:02:43 2025
+] User: 9999555577, Action: Loyalty points earned: 158
+[Sat May 24 19:02:43 2025
+] User: biller, Action: Bill generated: order_id 52
+[Sat May 24 19:02:59 2025
+] User: None, Action: Bill saved as PDF: bill_id 27 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill27.pdf
+[Sat May 24 19:04:00 2025
+] User: 9999555577, Action: Wallet topped up: 500.000000
+[Sat May 24 19:04:10 2025
+] User: biller, Action: User logged out
+[Sat May 24 19:04:24 2025
+] User: admin, Action: User logged in
+[Sat May 24 19:07:18 2025
+] User: biller, Action: User logged in
+[Sat May 24 19:08:00 2025
+] User: guest, Action: Order created: order_id 53
+[Sat May 24 19:08:16 2025
+] User: None, Action: Order completed: order_id 53
+[Sat May 24 19:08:16 2025
+] User: biller, Action: Bill generated: order_id 53
+[Sun May 25 16:36:33 2025
+] User: admin, Action: User logged in
+[Sun May 25 17:03:08 2025
+] User: biller, Action: User logged in
+[Sun May 25 17:03:21 2025
+] User: 9999555577, Action: Order created: order_id 54
+[Sun May 25 17:03:48 2025
+] User: 9999555577, Action: Loyalty points redeemed: -100
+[Sun May 25 17:03:48 2025
+] User: None, Action: Order completed: order_id 54
+[Sun May 25 17:03:48 2025
+] User: 9999555577, Action: Loyalty points earned: 14
+[Sun May 25 17:03:48 2025
+] User: biller, Action: Bill generated: order_id 54
+[Sun May 25 17:03:59 2025
+] User: None, Action: Bill saved as PDF: bill_id 29 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill29.pdf
+[Sun May 25 17:05:05 2025
+] User: 9999555577, Action: Order created: order_id 55
+[Sun May 25 17:05:35 2025
+] User: 9999555577, Action: Loyalty points redeemed: -50
+[Sun May 25 17:05:35 2025
+] User: None, Action: Order completed: order_id 55
+[Sun May 25 17:05:35 2025
+] User: 9999555577, Action: Loyalty points earned: 20
+[Sun May 25 17:05:35 2025
+] User: biller, Action: Bill generated: order_id 55
+[Sun May 25 17:05:39 2025
+] User: None, Action: Bill saved as PDF: bill_id 30 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill30.pdf
+[Sun May 25 19:50:53 2025
+] User: admin, Action: User logged in
+[Sun May 25 19:51:15 2025
+] User: biller, Action: User logged in
+[Sun May 25 19:51:50 2025
+] User: 9999555577, Action: Loyalty points earned: 1000
+[Sun May 25 19:52:03 2025
+] User: 9999555577, Action: Wallet topped up: 10000.000000
+[Sun May 25 19:52:51 2025
+] User: 9999555577, Action: Order created: order_id 56
+[Sun May 25 19:53:10 2025
+] User: None, Action: Order canceled: order_id 56
+[Sun May 25 19:53:17 2025
+] User: biller, Action: User logged out
+[Sun May 25 19:53:21 2025
+] User: admin, Action: User logged out
+[Sun May 25 19:53:55 2025
+] User: admin, Action: User logged in
+[Sun May 25 19:54:12 2025
+] User: admin, Action: User logged out
+[Sun May 25 19:54:25 2025
+] User: manager, Action: User logged in
+[Sun May 25 19:55:10 2025
+] User: manager, Action: User logged out
+[Sun May 25 19:55:26 2025
+] User: biller, Action: User logged in
+[Sun May 25 19:55:42 2025
+] User: biller, Action: User logged out
+[Sun May 25 19:57:08 2025
+] User: admin, Action: User logged in
+[Sun May 25 19:57:10 2025
+] User: admin, Action: User logged out
+[Sun May 25 19:57:19 2025
+] User: manager, Action: User logged in
+[Sun May 25 19:57:26 2025
+] User: manager, Action: User logged out
+[Sun May 25 21:35:23 2025
+] User: admin, Action: User logged in
+[Mon May 26 19:51:57 2025
+] User: biller, Action: User logged in
+[Mon May 26 19:52:31 2025
+] User: 9999555577, Action: Order created: order_id 57
+[Mon May 26 19:53:15 2025
+] User: None, Action: Order completed: order_id 57
+[Mon May 26 19:53:15 2025
+] User: 9999555577, Action: Loyalty points earned: 22
+[Mon May 26 19:53:15 2025
+] User: biller, Action: Bill generated: order_id 57
+[Mon May 26 19:54:35 2025
+] User: biller, Action: User logged in
+[Mon May 26 19:55:13 2025
+] User: 9999555577, Action: Order created: order_id 58
+[Mon May 26 19:55:42 2025
+] User: None, Action: Order completed: order_id 58
+[Mon May 26 19:55:42 2025
+] User: 9999555577, Action: Loyalty points earned: 35
+[Mon May 26 19:55:42 2025
+] User: biller, Action: Bill generated: order_id 58
+[Mon May 26 19:55:55 2025
+] User: None, Action: Bill saved as PDF: bill_id 32 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill32.pdf
+[Mon May 26 19:56:20 2025
+] User: 9999555577, Action: Wallet topped up: 100.000000
+[Mon May 26 19:56:27 2025
+] User: biller, Action: User logged out
+[Mon May 26 19:56:45 2025
+] User: manager, Action: User logged in
+[Mon May 26 19:57:54 2025
+] User: 9123456789, Action: Wallet created with phone number: 9123456789
+[Mon May 26 19:59:01 2025
+] User: 9123456789, Action: Loyalty points earned: 20
+[Mon May 26 19:59:29 2025
+] User: manager, Action: User logged out
+[Mon May 26 19:59:41 2025
+] User: admin, Action: User logged in
+[Mon May 26 20:00:07 2025
+] User: None, Action: Bill saved as PDF: bill_id 8 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill8.pdf
+[Mon May 26 20:00:54 2025
+] User: admin, Action: User logged out
+[Tue May 27 09:16:52 2025
+] User: riya, Action: User logged in
+[Tue May 27 10:06:39 2025
+] User: biller, Action: User logged in
+[Tue May 27 10:09:45 2025
+] User: 9999555577, Action: Order created: order_id 59
+[Tue May 27 10:10:19 2025
+] User: guest, Action: Order created: order_id 60
+[Tue May 27 10:12:17 2025
+] User: 9999555577, Action: Loyalty points redeemed: -60
+[Tue May 27 10:12:17 2025
+] User: None, Action: Order completed: order_id 59
+[Tue May 27 10:12:17 2025
+] User: 9999555577, Action: Loyalty points earned: 18
+[Tue May 27 10:12:17 2025
+] User: biller, Action: Bill generated: order_id 59
+[Tue May 27 10:12:28 2025
+] User: None, Action: Bill saved as PDF: bill_id 33 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill33.pdf
+[Tue May 27 10:12:30 2025
+] User: None, Action: Bill saved as PDF: bill_id 33 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill33.pdf
+[Tue May 27 10:13:12 2025
+] User: None, Action: Bill saved as PDF: bill_id 33 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill33.pdf
+[Tue May 27 10:14:48 2025
+] User: 9999555577, Action: Wallet topped up: 100.000000
+[Tue May 27 10:15:51 2025
+] User: biller, Action: User logged out
+[Tue May 27 10:16:25 2025
+] User: manager, Action: User logged in
+[Tue May 27 10:19:08 2025
+] User: None, Action: Order canceled: order_id 60
+[Tue May 27 10:23:56 2025
+] User: 9999555577, Action: Loyalty points earned: 10
+[Tue May 27 10:26:00 2025
+] User: 9998887776, Action: Wallet created with phone number: 9998887776
+[Tue May 27 10:26:14 2025
+] User: manager, Action: User logged out
+[Tue May 27 10:26:53 2025
+] User: riya, Action: User logged in
+[Tue May 27 10:31:59 2025
+] User: riya, Action: User logged out
+[Tue May 27 11:38:39 2025
+] User: biller, Action: User logged in
+[Tue May 27 12:21:50 2025
+] User: biller, Action: User logged in
+[Tue May 27 12:30:07 2025
+] User: biller, Action: User logged out
+[Tue May 27 14:33:57 2025
+] User: biller, Action: User logged in
+[Tue May 27 14:37:34 2025
+] User: 9999555577, Action: Order created: order_id 61
+[Tue May 27 14:42:24 2025
+] User: 9999555577, Action: Loyalty points redeemed: -60
+[Tue May 27 14:42:24 2025
+] User: None, Action: Order completed: order_id 61
+[Tue May 27 14:42:24 2025
+] User: 9999555577, Action: Loyalty points earned: 10
+[Tue May 27 14:42:24 2025
+] User: biller, Action: Bill generated: order_id 61
+[Tue May 27 14:44:23 2025
+] User: None, Action: Bill saved as PDF: bill_id 34 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill34.pdf
+[Tue May 27 14:44:26 2025
+] User: None, Action: Bill saved as PDF: bill_id 34 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill34.pdf
+[Tue May 27 14:45:38 2025
+] User: biller, Action: User logged out
+[Tue May 27 14:47:04 2025
+] User: manager, Action: User logged in
+[Tue May 27 14:49:31 2025
+] User: manager, Action: User logged out
+[Tue May 27 14:49:50 2025
+] User: admin, Action: User logged in
+[Wed May 28 11:15:12 2025
+] User: admin, Action: User logged in
+[Wed May 28 11:27:03 2025
+] User: admin, Action: User logged out
+[Wed May 28 12:37:48 2025
+] User: biller, Action: User logged in
+[Wed May 28 12:38:08 2025
+] User: biller, Action: User logged out
+[Wed May 28 12:38:51 2025
+] User: biller, Action: User logged in
+[Wed May 28 12:39:56 2025
+] User: 9999555577, Action: Order created: order_id 62
+[Wed May 28 12:40:30 2025
+] User: guest, Action: Order created: order_id 63
+[Wed May 28 12:41:44 2025
+] User: 9999555577, Action: Order created: order_id 64
+[Wed May 28 12:43:17 2025
+] User: None, Action: Order completed: order_id 64
+[Wed May 28 12:43:17 2025
+] User: 9999555577, Action: Loyalty points earned: 14
+[Wed May 28 12:43:17 2025
+] User: biller, Action: Bill generated: order_id 64
+[Wed May 28 12:43:32 2025
+] User: None, Action: Bill saved as PDF: bill_id 35 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill35.pdf
+[Wed May 28 12:43:33 2025
+] User: None, Action: Bill saved as PDF: bill_id 35 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill35.pdf
+[Wed May 28 12:47:00 2025
+] User: biller, Action: User logged out
+[Wed May 28 12:47:16 2025
+] User: manager, Action: User logged in
+[Wed May 28 12:48:06 2025
+] User: manager, Action: User logged out
+[Wed May 28 12:50:31 2025
+] User: admin, Action: User logged in
+[Wed May 28 14:33:36 2025
+] User: riya, Action: User logged in
+[Wed May 28 14:34:25 2025
+] User: None, Action: Bill saved as PDF: bill_id 1 at /Users/rudra/Library/Mobile Documents/com~apple~CloudDocs/RUDRA FILES/SEM-2/Hackathon/bills/bill1.pdf
+[Thu May 29 14:10:55 2025
+] User: biller, Action: User logged in
+[Thu May 29 14:11:12 2025
+] User: biller, Action: User logged out
+[Thu May 29 14:11:23 2025
+] User: manager, Action: User logged in
+[Thu May 29 14:12:22 2025
+] User: manager, Action: User logged out
+[Thu May 29 14:12:35 2025
+] User: admin, Action: User logged in
+[Thu May 29 14:13:01 2025
+] User: admin, Action: User logged out
